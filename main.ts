@@ -8,3 +8,4 @@ input.onButtonPressed(Button.B, function () {
 })
 let counter = 0
 counter = 0
+counter += 0
